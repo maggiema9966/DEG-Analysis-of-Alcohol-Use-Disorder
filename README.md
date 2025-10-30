@@ -7,7 +7,7 @@ This project aims to supplement the original research on Alcohol Use Disorder (A
 
 ## Aim 1: Compare DEGs
 One main goal of this project was to compare the DEGs of smoking status and depression with the control, AUD. Then, we determined whether they overlap with the DEGs found for AUD. This could tell us which DEGs found in the AUD analyses done by the original researchers were really due to smoking status and depression instead.
-### Sub-Aim: Biological Pathways
+#### Sub-Aim: Biological Pathways
 A sub-aim we had was to look for potential biological pathways associated with the DEGs we found in both overlapping and non-overlapping genes.
 
 ## Aim 2: K-Nearest Neighbor Classifier
